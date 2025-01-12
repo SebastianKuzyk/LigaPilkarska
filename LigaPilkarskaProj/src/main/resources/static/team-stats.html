@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statystyki Drużyn</title>
+    <link rel="stylesheet" href="team-stats.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Do wykresów -->
+</head>
+<body>
+    <header>
+        <h1>Liga Piłkarska</h1>
+    </header>
+
+    <main>
+        <!-- 🔹 Ranking drużyn -->
+        <section>
+            <h2>🏆 Ranking Drużyn</h2>
+            <table id="teamsRankingTable">
+                <thead>
+                    <tr>
+                        <th>Pozycja</th>
+                        <th>Drużyna</th>
+                        <th>Punkty</th>
+                        <th>Różnica bramek</th>
+                        <th>Żółte kartki</th>
+                        <th>Czerwone kartki</th>
+                    </tr>
+                </thead>
+                <tbody id="teamsRankingBody">
+                    <tr><td colspan="6">Ładowanie danych...</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- 🔹 Najlepsza ofensywa i defensywa -->
+        <section>
+            <h2>⚽ Najlepsza Ofensywa i Defensywa</h2>
+            <div class="charts-container">
+                <div class="pie-chart-container">
+                    <canvas id="bestAttackChart"></canvas>
+                </div>
+                <div class="pie-chart-container">
+                    <canvas id="bestDefenseChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- 🔹 Średnia liczba punktów na mecz -->
+        <section>
+            <h2>📊 Średnia Liczba Punktów na Mecz</h2>
+            <div class="bar-chart-container">
+                <canvas id="averagePointsChart"></canvas>
+            </div>
+        </section>
+
+        <!-- 🔹 Mecze domowe vs wyjazdowe -->
+        <section>
+            <h2>🏟️ Mecze Domowe vs Wyjazdowe</h2>
+            <div class="bar-chart-container">
+                <canvas id="homeAwayChart"></canvas>
+            </div>
+        </section>
+
+        <!-- 🔹 Najczęstsze wyniki meczów -->
+        <section id="most-common-results">
+            <h3>🔥 Najczęstsze wyniki meczów</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Wynik</th>
+                        <th>Liczba meczów</th>
+                        <th>Procent</th>
+                    </tr>
+                </thead>
+                <tbody id="commonResultsTable">
+                    <tr><td colspan="3">Ładowanie danych...</td></tr>
+                </tbody>
+            </table>
+            <div class="bar-chart-container">
+                <canvas id="commonResultsChart"></canvas>
+            </div>
+        </section>
+
+
+        <!-- 🔹 Przycisk powrotu -->
+        <button id="backBtn">⬅ Wróć do strony głównej</button>
+    </main>
+
+    <script src="team-stats.js"></script>
+</body>
+</html>

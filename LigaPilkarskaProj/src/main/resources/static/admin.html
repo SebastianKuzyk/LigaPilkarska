@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel Administratora</title>
+    <link rel="stylesheet" href="admin-styles.css">
+</head>
+<body>
+    <header>
+        <h1>Panel Administratora</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#coaches">Trenerzy</a></li>
+            <li><a href="#matches">Mecze</a></li>
+            <li><a href="#players">Gracze</a></li>
+            <li><a href="#players_statistics">Statystyki Graczy</a></li>
+            <li><a href="#referee">Sędziowie</a></li>
+            <li><a href="#stadium">Stadiony</a></li>
+            <li><a href="#teams">Zespoły</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="coaches">
+            <h2>Trenerzy</h2>
+            <button id="addCoachButton">Dodaj Trenera</button>
+            <table id="coachesTable" class="admin-table">
+                <thead>
+                    <tr>
+                        <th>Imię</th>
+                        <th>Nazwisko</th>
+                        <th>Zespół</th>
+                        <th>Akcje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wiersze trenerów będą tutaj wstawiane -->
+                </tbody>
+            </table>
+        </section>
+        
+
+        <section id="matches">
+            <h2>Mecze</h2>
+            <button id="addMatchButton">Dodaj Mecz</button>
+            <table id="matchesTable" class="admin-table">
+                <thead>
+                    <tr>
+                        <th>Gospodarze</th>
+                        <th>Wynik Gospodarzy</th>
+                        <th>Wynik Gości</th>
+                        <th>Goście</th>
+                        <th>Data Meczu</th>
+                        <th>Stadion</th>
+                        <th>Sędzia</th>
+                        <th>Akcje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wiersze meczów będą tutaj wstawiane -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="players">
+            <h2>Gracze</h2>
+            <button id="addPlayerButton">Dodaj Gracza</button>
+            <table id="playersTable" class="admin-table scrollable-table">
+                <thead>
+                    <tr>
+                        <th>Imię</th>
+                        <th>Nazwisko</th>
+                        <th>Pozycja</th>
+                        <th>Drużyna</th>
+                        <th>Akcje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wiersze graczy będą tutaj wstawiane -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="players_statistics">
+            <h2>Statystyki Graczy</h2>
+            <!-- <button id="addStatisticsButton">Dodaj Statystyki</button> -->
+            <table id="statisticsTable" class="admin-table scrollable-table">
+                <thead>
+                    <tr>
+                        <th>Gracz</th>
+                        <th>Bramki</th>
+                        <th>Asysty</th>
+                        <th>Żółte Kartki</th>
+                        <th>Czerwone Kartki</th>
+                        <th>Czyste Konta</th>
+                        <th>Akcje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wiersze statystyk graczy będą tutaj wstawiane -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="referee">
+            <h2>Sędziowie</h2>
+            <button id="addRefereeButton">Dodaj Sędziego</button>
+            <table id="refereeTable" class="admin-table">
+                <thead>
+                    <tr>
+                        <th>Imię</th>
+                        <th>Nazwisko</th>
+                        <th>Akcje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wiersze sędziów będą tutaj wstawiane -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="stadium">
+            <h2>Stadiony</h2>
+            <button id="addStadiumButton">Dodaj Stadion</button>
+            <table id="stadiumTable" class="admin-table">
+                <thead>
+                    <tr>
+                        <th>Nazwa Stadionu</th>
+                        <th>Akcje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wiersze stadionów będą tutaj wstawiane -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="teams">
+            <h2>Zespoły</h2>
+            <button id="addTeamButton">Dodaj Zespół</button>
+            <table id="teamsTable" class="admin-table scrollable-table">
+                <thead>
+                    <tr>
+                        <th>Nazwa Zespołu</th>
+                        <th>Stadion</th>
+                        <th>Miasto</th>
+                        <th>Punkty</th>
+                        <th>Rozegrane Mecze</th>
+                        <th>Wygrane</th>
+                        <th>Remisy</th>
+                        <th>Przegrane</th>
+                        <th>Strzelone Bramki</th>
+                        <th>Stracone Bramki</th>
+                        <th>Akcje</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wiersze zespołów będą tutaj wstawiane -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <script src="main.js"></script>
+    <script src="coaches.js"></script>
+    <script src="matches.js"></script>
+    <script src="players.js"></script>
+    <script src="statistics.js"></script>
+    <script src="referees.js"></script>
+    <script src="stadiums.js"></script>
+    <script src="teams.js"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liga Piłkarska</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Liga Piłkarska</h1>
+        <button id="showTeamStatsBtn">📊 Zobacz statystyki drużyn</button>
+    </header>
+    <main>
+        <div class="date-picker">
+            <label for="matchDate">Wybierz datę:</label>
+            <input type="date" id="matchDate">
+        </div>
+
+        <div id="matchesResult" class="result"></div>
+
+        <div class="tables-container">
+            <div class="table-wrapper">
+                <h2>Najlepsi Strzelcy</h2>
+                <table id="topScorersTable" class="result">
+                    <thead>
+                        <tr>
+                            <th>Imię</th>
+                            <th>Nazwisko</th>
+                            <th>Zespół</th>
+                            <th>Bramki</th>
+                        </tr>
+                    </thead>
+                    <tbody id="topScorersBody">
+                        <!-- Wyniki będą tutaj wstawiane -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-wrapper">
+                <h2>Najlepsi Asystenci</h2>
+                <table id="topAssistersTable" class="result">
+                    <thead>
+                        <tr>
+                            <th>Imię</th>
+                            <th>Nazwisko</th>
+                            <th>Zespół</th>
+                            <th>Asysty</th>
+                        </tr>
+                    </thead>
+                    <tbody id="topAssistersBody">
+                        <!-- Wyniki będą tutaj wstawiane -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-wrapper">
+                <h2>Najlepsi Bramkarze</h2>
+                <table id="topGoalkeepersTable" class="result">
+                    <thead>
+                        <tr>
+                            <th>Imię</th>
+                            <th>Nazwisko</th>
+                            <th>Zespół</th>
+                            <th>Czyste Konta</th>
+                        </tr>
+                    </thead>
+                    <tbody id="topGoalkeepersBody">
+                        <!-- Wyniki będą tutaj wstawiane -->
+                    </tbody>
+                </table>
+            </div>
+       
+            <div class="table-wrapper">
+                <h2>Ranking Drużyn</h2>
+                <table id="teamsRankingTable" class="result">
+                    <thead>
+                        <tr>
+                            <th>Pozycja</th>
+                            <th>Nazwa Drużyny</th>
+                        </tr>
+                    </thead>
+                    <tbody id="teamsRankingBody">
+                        <!-- Wyniki będą tutaj wstawiane -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>

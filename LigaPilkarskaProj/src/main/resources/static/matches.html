@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista meczów</title>
+    <link rel="stylesheet" href="team.css">
+</head>
+<body>
+    <header>
+        <h1 id="team-name">Ładowanie nazwy drużyny...</h1>
+        <h2 id="coach-name">Trener: <span id="coach-name-value">Ładowanie...</span></h2>
+        <h3 id="team-ranking">Aktualna pozycja w rankingu: Ładowanie...</h3>
+    </header>
+
+    <main>
+        <!-- 🔹 Tabela meczów -->
+        <section id="matches-list">
+            <h3>Lista wszystkich meczów drużyny</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Data</th>
+                        <th>Gospodarz</th>
+                        <th>Gość</th>
+                        <th>Wynik</th>
+                        <th>Stadion</th>
+                        <th>Rodzaj</th>
+                    </tr>
+                </thead>
+                <tbody id="matches-table">
+                    <tr>
+                        <td colspan="6">Ładowanie danych...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Przycisk powrotu -->
+        <button onclick="goBack()">⬅ Wróć</button>
+    </main>
+
+    <script src="matchesList.js"></script>
+</body>
+</html>

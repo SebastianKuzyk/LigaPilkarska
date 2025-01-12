@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista zawodników</title>
+    <link rel="stylesheet" href="team.css">
+</head>
+<body>
+    <!-- 🔹 Nagłówek taki sam jak w team.html -->
+    <header>
+        <div class="header-container">
+            <h1 id="team-name">Ładowanie nazwy drużyny...</h1>
+            <h2 id="coach-name">Trener: <span id="coach-name-value">Ładowanie...</span></h2>
+            <h3 id="team-ranking">Aktualna pozycja w rankingu: <span id="ranking-value">Ładowanie...</span></h3>
+        </div>
+    </header>
+
+    <main>
+        <!-- 🔹 Lista zawodników -->
+        <section id="players-list">
+            <h3>Lista zawodników</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Imię</th>
+                        <th>Nazwisko</th>
+                        <th>Pozycja</th>
+                        <th>Bramki</th>
+                        <th>Asysty</th>
+                        <th>Czyste konta</th>
+                        <th>Żółte kartki</th>
+                        <th>Czerwone kartki</th>
+                    </tr>
+                </thead>
+                <tbody id="players-table">
+                    <tr><td colspan="8">Ładowanie danych...</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <button onclick="goBack()">⬅ Wróć</button>
+    </main>
+
+    <script src="playersList.js"></script>
+</body>
+</html>

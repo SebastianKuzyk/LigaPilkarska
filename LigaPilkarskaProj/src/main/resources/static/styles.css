@@ -1,0 +1,200 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #008080;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#showTeamStatsBtn {
+    display: block;
+    width: 300px;
+    margin: 20px auto;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #d32f2f;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background 0.3s, transform 0.2s;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#showTeamStatsBtn:hover {
+    background-color: #b71c1c;
+    transform: scale(1.05);
+}
+
+#showTeamStatsBtn:active {
+    background-color: #9a0007;
+    transform: scale(0.98);
+}
+
+
+main {
+    padding: 20px;
+}
+
+.date-picker {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background: none;
+    box-shadow: none;
+}
+
+#matchesResult {
+    display: inline;
+}
+
+.no-matches {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #d9534f; /* Czerwony kolor dla lepszej widoczności */
+    background-color: #f8d7da; /* Jasne tło dla wyróżnienia */
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+    width: 30%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.date-picker label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+    color: #333;
+}
+
+.date-picker input[type="date"] {
+    font-size: 16px;
+    padding: 8px 12px;
+    border: 2px solid #008080;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.date-picker input[type="date"]:hover {
+    border-color: #005f5f;
+}
+
+.date-picker input[type="date"]:focus {
+    border-color: #004444;
+    box-shadow: 0 0 5px rgba(0, 128, 128, 0.5);
+}
+
+
+.tables-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.table-wrapper {
+    flex: 1;
+    min-width: 300px;
+}
+
+.result {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+.result th, .result td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.result th {
+    background-color: #f2f2f2;
+}
+
+.matches-container {
+    margin-top: 20px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.match-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.match-card:last-child {
+    border-bottom: none;
+}
+
+.team-name {
+    flex: 1;
+    text-align: left;
+}
+
+.match-score {
+    flex: 0 0 100px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #008080;
+}
+
+
+/* 🔗 Styl dla linków drużyn w tabeli rankingu */
+#teamsRankingTable a {
+    display: inline-block;
+    padding: 8px 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #d32f2f;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.3s, transform 0.2s;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#teamsRankingTable a:hover {
+    background-color: #b71c1c;
+    transform: scale(1.05);
+}
+
+#teamsRankingTable a:active {
+    background-color: #9a0007;
+    transform: scale(0.98);
+}

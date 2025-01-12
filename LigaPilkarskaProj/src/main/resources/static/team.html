@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drużyna</title>
+    <link rel="stylesheet" href="team.css">
+</head>
+<body>
+    <header>
+        <h1 id="team-name">Ładowanie nazwy drużyny...</h1>
+        <h2 id="coach-name">Trener: <span id="coach-name-value">Ładowanie...</span></h2>
+        <h3 id="team-ranking">Ładowanie rankingu...</h3>
+    </header>
+    
+    
+
+    <main>
+        <!-- 🔹 Informacje o drużynie -->
+        <section id="team-info">
+            <h3>Informacje o drużynie</h3>
+            <p><strong>Stadion:</strong> <span id="stadium-name">Ładowanie...</span></p>
+            <p><strong>Miasto:</strong> <span id="city-name">Ładowanie...</span></p>
+        </section>
+
+        <!-- 🔹 Statystyki zawodników -->
+        <section id="player-stats">
+            <h3>Statystyki zawodników</h3>
+            <ul>
+                <li><strong>Najwięcej goli:</strong> <span id="top-goals">Brak danych</span></li>
+                <li><strong>Najwięcej asyst:</strong> <span id="top-assists">Brak danych</span></li>
+                <li><strong>Najlepszy bramkarz:</strong> <span id="top-goalkeeper">Brak danych</span></li>
+                <li><strong>Najwięcej żółtych kartek:</strong> <span id="top-yellow-cards">Brak danych</span></li>
+                <li><strong>Najwięcej czerwonych kartek:</strong> <span id="top-red-cards">Brak danych</span></li>
+            </ul>
+            <button id="showAllPlayersBtn">Pokaż pełną listę zawodników</button>
+        </section>
+
+        <!-- 🔹 Ostatnie mecze -->
+        <section id="matches">
+            <h3>Ostatnie mecze</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Gospodarz</th>
+                        <th>Wynik</th>
+                        <th>Gość</th>
+                        <th>Stadion</th>
+                        <th>Rodzaj</th>
+                    </tr>
+                </thead>
+                <tbody id="matches-table">
+                    <tr>
+                        <td colspan="5">Ładowanie danych...</td>
+                    </tr>
+                </tbody>
+            </table>
+            <button id="showAllMatchesBtn">Pokaż pełną listę meczów</button>
+        </section>
+        <button onclick="goBack()">⬅ Wróć</button>
+    </main>
+
+    <script src="team.js"></script>
+</body>
+</html>
