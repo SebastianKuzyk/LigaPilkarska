@@ -1,0 +1,7032 @@
+[{
+  "_id": {
+    "$oid": "67841fde8e20fb7c423eb0a1"
+  },
+  "teams": [
+    {
+      "wins": 3,
+      "coach": {
+        "last_name": "Arteta",
+        "first_name": "Mikel"
+      },
+      "draws": 3,
+      "losses": 0,
+      "points": 12,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 48,
+          "away_team": "Arsenal",
+          "home_team": "Everton",
+          "match_date": "2024-09-17",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 61,
+          "away_team": "Arsenal",
+          "home_team": "Bournemouth",
+          "match_date": "2024-09-30",
+          "away_team_score": 4,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Villa Park",
+          "match_id": 74,
+          "away_team": "Fulham",
+          "home_team": "Arsenal",
+          "match_date": "2024-12-04",
+          "away_team_score": 10,
+          "home_team_score": 10
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Villa Park",
+          "match_id": 73,
+          "away_team": "Tottenham",
+          "home_team": "Arsenal",
+          "match_date": "2024-12-04",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 55,
+          "away_team": "Tottenham",
+          "home_team": "Arsenal",
+          "match_date": "2024-09-24",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 39,
+          "away_team": "Manchester United",
+          "home_team": "Arsenal",
+          "match_date": "2024-09-03",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 22,
+          "away_team": "Fulham",
+          "home_team": "Arsenal",
+          "match_date": "2024-08-26",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 2,
+          "away_team": "Nottingham Forest",
+          "home_team": "Arsenal",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Selhurst Park",
+          "match_id": 19,
+          "away_team": "Arsenal",
+          "home_team": "Crystal Palace",
+          "match_date": "2024-08-21",
+          "away_team_score": 1,
+          "home_team_score": 0
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Saka",
+          "player_id": 1,
+          "first_name": "Bukayo",
+          "statistics": {
+            "goals": 5,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Rice",
+          "player_id": 2,
+          "first_name": "Declan",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Odegaard",
+          "player_id": 3,
+          "first_name": "Martin",
+          "statistics": {
+            "goals": 2,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Jesus",
+          "player_id": 4,
+          "first_name": "Gabriel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Havertz",
+          "player_id": 5,
+          "first_name": "Kai",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 3
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Saliba",
+          "player_id": 6,
+          "first_name": "William",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "White",
+          "player_id": 7,
+          "first_name": "Ben",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Magalhaes",
+          "player_id": 8,
+          "first_name": "Gabriel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Ramsdale",
+          "player_id": 9,
+          "first_name": "Aaron",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Trossard",
+          "player_id": 10,
+          "first_name": "Leandro",
+          "statistics": {
+            "goals": 3,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Frello",
+          "player_id": 11,
+          "first_name": "Jorginho",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Partey",
+          "player_id": 12,
+          "first_name": "Thomas",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Tomiyasu",
+          "player_id": 13,
+          "first_name": "Takehiro",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Zinchenko",
+          "player_id": 14,
+          "first_name": "Oleksandr",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Kiwior",
+          "player_id": 15,
+          "first_name": "Jakub",
+          "statistics": {
+            "goals": 1,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Nketiah",
+          "player_id": 16,
+          "first_name": "Eddie",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Nelson",
+          "player_id": 17,
+          "first_name": "Reiss",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Raya",
+          "player_id": 18,
+          "first_name": "David",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 3,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Test1",
+          "player_id": 365,
+          "first_name": "Test1",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "London",
+        "stadium_name": "Emirates Stadium"
+      },
+      "team_id": 1,
+      "team_name": "Arsenal",
+      "goals_scored": 21,
+      "goals_conceded": 17,
+      "matches_played": 9
+    },
+    {
+      "wins": 3,
+      "coach": {
+        "last_name": "Emery",
+        "first_name": "Unai"
+      },
+      "draws": 0,
+      "losses": 0,
+      "points": 9,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 57,
+          "away_team": "Aston Villa",
+          "home_team": "Chelsea",
+          "match_date": "2024-09-24",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Taylor",
+            "first_name": "Anthony"
+          },
+          "stadium": "St. James Park",
+          "match_id": 7,
+          "away_team": "Aston Villa",
+          "home_team": "Newcastle",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 5
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 27,
+          "away_team": "Aston Villa",
+          "home_team": "Burnley",
+          "match_date": "2024-08-27",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Villa Park",
+          "match_id": 60,
+          "away_team": "Brighton",
+          "home_team": "Aston Villa",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 6
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Villa Park",
+          "match_id": 41,
+          "away_team": "Crystal Palace",
+          "home_team": "Aston Villa",
+          "match_date": "2024-09-16",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Villa Park",
+          "match_id": 17,
+          "away_team": "Everton",
+          "home_team": "Aston Villa",
+          "match_date": "2024-08-20",
+          "away_team_score": 0,
+          "home_team_score": 4
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Anfield",
+          "match_id": 38,
+          "away_team": "Aston Villa",
+          "home_team": "Liverpool",
+          "match_date": "2024-09-03",
+          "away_team_score": 0,
+          "home_team_score": 3
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Watkins",
+          "player_id": 19,
+          "first_name": "Ollie",
+          "statistics": {
+            "goals": 3,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "McGinn",
+          "player_id": 20,
+          "first_name": "John",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Bailey",
+          "player_id": 21,
+          "first_name": "Leon",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Luiz",
+          "player_id": 22,
+          "first_name": "Douglas",
+          "statistics": {
+            "goals": 5,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Kamara",
+          "player_id": 23,
+          "first_name": "Boubacar",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Martinez",
+          "player_id": 24,
+          "first_name": "Emiliano",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 2,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Mings",
+          "player_id": 25,
+          "first_name": "Tyrone",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Torres",
+          "player_id": 26,
+          "first_name": "Pau",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Konsa",
+          "player_id": 27,
+          "first_name": "Ezri",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Cash",
+          "player_id": 28,
+          "first_name": "Matty",
+          "statistics": {
+            "goals": 5,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Ramsey",
+          "player_id": 29,
+          "first_name": "Jacob",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Digne",
+          "player_id": 30,
+          "first_name": "Lucas",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Duran",
+          "player_id": 31,
+          "first_name": "Jhon",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 3
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Diaby",
+          "player_id": 32,
+          "first_name": "Moussa",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Tielemans",
+          "player_id": 33,
+          "first_name": "Youri",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Carlos",
+          "player_id": 34,
+          "first_name": "Diego",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Olsen",
+          "player_id": 35,
+          "first_name": "Robin",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Traore",
+          "player_id": 36,
+          "first_name": "Bertrand",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Birmingham",
+        "stadium_name": "Villa Park"
+      },
+      "team_id": 2,
+      "team_name": "Aston Villa",
+      "goals_scored": 13,
+      "goals_conceded": 2,
+      "matches_played": 7
+    },
+    {
+      "wins": 0,
+      "coach": {
+        "last_name": "Iraola",
+        "first_name": "Andoni"
+      },
+      "draws": 2,
+      "losses": 2,
+      "points": 2,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Taylor",
+            "first_name": "Anthony"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 32,
+          "away_team": "Bournemouth",
+          "home_team": "Brentford",
+          "match_date": "2024-09-02",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 61,
+          "away_team": "Arsenal",
+          "home_team": "Bournemouth",
+          "match_date": "2024-09-30",
+          "away_team_score": 4,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 47,
+          "away_team": "Chelsea",
+          "home_team": "Bournemouth",
+          "match_date": "2024-09-17",
+          "away_team_score": 0,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 21,
+          "away_team": "Tottenham",
+          "home_team": "Bournemouth",
+          "match_date": "2024-08-26",
+          "away_team_score": 2,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 3,
+          "away_team": "West Ham",
+          "home_team": "Bournemouth",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 56,
+          "away_team": "Bournemouth",
+          "home_team": "Brighton",
+          "match_date": "2024-09-24",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Anfield",
+          "match_id": 13,
+          "away_team": "Bournemouth",
+          "home_team": "Liverpool",
+          "match_date": "2024-08-19",
+          "away_team_score": 1,
+          "home_team_score": 3
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Solanke",
+          "player_id": 37,
+          "first_name": "Dominic",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Billing",
+          "player_id": 38,
+          "first_name": "Philip",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Tavernier",
+          "player_id": 39,
+          "first_name": "Marcus",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 3
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Moore",
+          "player_id": 40,
+          "first_name": "Kieffer",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Kluivert",
+          "player_id": 41,
+          "first_name": "Justin",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Senesi",
+          "player_id": 42,
+          "first_name": "Marcos",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Mepham",
+          "player_id": 43,
+          "first_name": "Chris",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Smith",
+          "player_id": 44,
+          "first_name": "Adam",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Murara",
+          "player_id": 45,
+          "first_name": "Neto",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 1,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Christie",
+          "player_id": 46,
+          "first_name": "Ryan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Cook",
+          "player_id": 47,
+          "first_name": "Lewis",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Rothwell",
+          "player_id": 48,
+          "first_name": "Joe",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Kelly",
+          "player_id": 49,
+          "first_name": "Lloyd",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Stacey",
+          "player_id": 50,
+          "first_name": "Jack",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Zabarnyi",
+          "player_id": 51,
+          "first_name": "Ilya",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Semenyo",
+          "player_id": 52,
+          "first_name": "Antoine",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Brooks",
+          "player_id": 53,
+          "first_name": "David",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Travers",
+          "player_id": 54,
+          "first_name": "Mark",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Bournemouth",
+        "stadium_name": "Vitality Stadium"
+      },
+      "team_id": 3,
+      "team_name": "Bournemouth",
+      "goals_scored": 1,
+      "goals_conceded": 7,
+      "matches_played": 7
+    },
+    {
+      "wins": 0,
+      "coach": {
+        "last_name": "Frank",
+        "first_name": "Thomas"
+      },
+      "draws": 3,
+      "losses": 1,
+      "points": 3,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 8,
+          "away_team": "Tottenham",
+          "home_team": "Brentford",
+          "match_date": "2024-08-13",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 53,
+          "away_team": "Everton",
+          "home_team": "Brentford",
+          "match_date": "2024-09-23",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Taylor",
+            "first_name": "Anthony"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 32,
+          "away_team": "Bournemouth",
+          "home_team": "Brentford",
+          "match_date": "2024-09-02",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 23,
+          "away_team": "Crystal Palace",
+          "home_team": "Brentford",
+          "match_date": "2024-08-26",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Craven Cottage",
+          "match_id": 12,
+          "away_team": "Brentford",
+          "home_team": "Fulham",
+          "match_date": "2024-08-19",
+          "away_team_score": 3,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "St. James Park",
+          "match_id": 46,
+          "away_team": "Brentford",
+          "home_team": "Newcastle",
+          "match_date": "2024-09-16",
+          "away_team_score": 0,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "City Ground",
+          "match_id": 68,
+          "away_team": "Brentford",
+          "home_team": "Nottingham Forest",
+          "match_date": "2024-10-01",
+          "away_team_score": 1,
+          "home_team_score": 1
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Toney",
+          "player_id": 55,
+          "first_name": "Ivan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Mbeumo",
+          "player_id": 56,
+          "first_name": "Bryan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Wissa",
+          "player_id": 57,
+          "first_name": "Yoane",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Damsgaard",
+          "player_id": 58,
+          "first_name": "Mikkel",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Dasilva",
+          "player_id": 59,
+          "first_name": "Josh",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "NÃ¸rgaard",
+          "player_id": 60,
+          "first_name": "Christian",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Janelt",
+          "player_id": 61,
+          "first_name": "Vitaly",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Jensen",
+          "player_id": 62,
+          "first_name": "Mathias",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Hickey",
+          "player_id": 63,
+          "first_name": "Aaron",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Pinnock",
+          "player_id": 64,
+          "first_name": "Ethan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Mee",
+          "player_id": 65,
+          "first_name": "Ben",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Jansson",
+          "player_id": 66,
+          "first_name": "Pontus",
+          "statistics": {
+            "goals": 4,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Ajer",
+          "player_id": 67,
+          "first_name": "Kristoffer",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Raya",
+          "player_id": 68,
+          "first_name": "David",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 1,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Flekken",
+          "player_id": 69,
+          "first_name": "Mark",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Lewis-Potter",
+          "player_id": 70,
+          "first_name": "Keane",
+          "statistics": {
+            "goals": 2,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Onyeka",
+          "player_id": 71,
+          "first_name": "Frank",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Ghoddos",
+          "player_id": 72,
+          "first_name": "Saman",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        }
+      ],
+      "stadium": {
+        "city": "London",
+        "stadium_name": "Gtech Community Stadium"
+      },
+      "team_id": 4,
+      "team_name": "Brentford",
+      "goals_scored": 6,
+      "goals_conceded": 8,
+      "matches_played": 7
+    },
+    {
+      "wins": 3,
+      "coach": {
+        "last_name": "De Zerbi",
+        "first_name": "Roberto"
+      },
+      "draws": 0,
+      "losses": 1,
+      "points": 9,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Hooper",
+            "first_name": "Simon"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 43,
+          "away_team": "Brighton",
+          "home_team": "Manchester United",
+          "match_date": "2024-09-16",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Molineux",
+          "match_id": 14,
+          "away_team": "Brighton",
+          "home_team": "Wolves",
+          "match_date": "2024-08-19",
+          "away_team_score": 4,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 56,
+          "away_team": "Bournemouth",
+          "home_team": "Brighton",
+          "match_date": "2024-09-24",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 36,
+          "away_team": "Newcastle",
+          "home_team": "Brighton",
+          "match_date": "2024-09-02",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 26,
+          "away_team": "West Ham",
+          "home_team": "Brighton",
+          "match_date": "2024-08-26",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 4,
+          "away_team": "Luton Town",
+          "home_team": "Brighton",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 4
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Villa Park",
+          "match_id": 60,
+          "away_team": "Brighton",
+          "home_team": "Aston Villa",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 6
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Mitoma",
+          "player_id": 73,
+          "first_name": "Kaoru",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Ferguson",
+          "player_id": 74,
+          "first_name": "Evan",
+          "statistics": {
+            "goals": 1,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Welbeck",
+          "player_id": 75,
+          "first_name": "Danny",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gross",
+          "player_id": 76,
+          "first_name": "Pascal",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Lallana",
+          "player_id": 77,
+          "first_name": "Adam",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gilmour",
+          "player_id": 78,
+          "first_name": "Billy",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Milner",
+          "player_id": 79,
+          "first_name": "James",
+          "statistics": {
+            "goals": 6,
+            "assists": 4,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Pedro",
+          "player_id": 80,
+          "first_name": "João",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Estupiñán",
+          "player_id": 81,
+          "first_name": "Pervis",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Lamptey",
+          "player_id": 82,
+          "first_name": "Tariq",
+          "statistics": {
+            "goals": 4,
+            "assists": 7,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Dunk",
+          "player_id": 83,
+          "first_name": "Lewis",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Webster",
+          "player_id": 84,
+          "first_name": "Adam",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Paul van Hecke",
+          "player_id": 85,
+          "first_name": "Jan",
+          "statistics": {
+            "goals": 5,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Steele",
+          "player_id": 86,
+          "first_name": "Jason",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Verbruggen",
+          "player_id": 87,
+          "first_name": "Bart",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "March",
+          "player_id": 88,
+          "first_name": "Solly",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Buonanotte",
+          "player_id": 89,
+          "first_name": "Facundo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Adingra",
+          "player_id": 90,
+          "first_name": "Simon",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Brighton",
+        "stadium_name": "Amex Stadium"
+      },
+      "team_id": 5,
+      "team_name": "Brighton",
+      "goals_scored": 11,
+      "goals_conceded": 6,
+      "matches_played": 7
+    },
+    {
+      "wins": 0,
+      "coach": {
+        "last_name": "Kompany",
+        "first_name": "Vincent"
+      },
+      "draws": 0,
+      "losses": 4,
+      "points": 0,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "St. James Park",
+          "match_id": 64,
+          "away_team": "Burnley",
+          "home_team": "Newcastle",
+          "match_date": "2024-09-30",
+          "away_team_score": 0,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 1,
+          "away_team": "Manchester City",
+          "home_team": "Burnley",
+          "match_date": "2023-08-11",
+          "away_team_score": 3,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 54,
+          "away_team": "Manchester United",
+          "home_team": "Burnley",
+          "match_date": "2024-09-23",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 33,
+          "away_team": "Tottenham",
+          "home_team": "Burnley",
+          "match_date": "2024-09-02",
+          "away_team_score": 5,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 27,
+          "away_team": "Aston Villa",
+          "home_team": "Burnley",
+          "match_date": "2024-08-27",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Kenilworth Road",
+          "match_id": 70,
+          "away_team": "Burnley",
+          "home_team": "Luton Town",
+          "match_date": "2024-10-03",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "City Ground",
+          "match_id": 49,
+          "away_team": "Burnley",
+          "home_team": "Nottingham Forest",
+          "match_date": "2024-09-18",
+          "away_team_score": 1,
+          "home_team_score": 1
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Foster",
+          "player_id": 91,
+          "first_name": "Lyle",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Amdouni",
+          "player_id": 92,
+          "first_name": "Zeki",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Rodriguez",
+          "player_id": 93,
+          "first_name": "Jay",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Brownhill",
+          "player_id": 94,
+          "first_name": "Josh",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Cork",
+          "player_id": 95,
+          "first_name": "Jack",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Berge",
+          "player_id": 96,
+          "first_name": "Sander",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gudmundsson",
+          "player_id": 97,
+          "first_name": "Johann",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Ramsey",
+          "player_id": 98,
+          "first_name": "Aaron",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Taylor",
+          "player_id": 99,
+          "first_name": "Charlie",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Beyer",
+          "player_id": 100,
+          "first_name": "Jordan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Roberts",
+          "player_id": 101,
+          "first_name": "Connor",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Ekdal",
+          "player_id": 102,
+          "first_name": "Hjalmar",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "OShea",
+          "player_id": 103,
+          "first_name": "Dara",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Muric",
+          "player_id": 104,
+          "first_name": "Arijanet",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Trafford",
+          "player_id": 105,
+          "first_name": "James",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Zaroury",
+          "player_id": 106,
+          "first_name": "Anass",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Benson",
+          "player_id": 107,
+          "first_name": "Manuel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Redmond",
+          "player_id": 108,
+          "first_name": "Nathan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Burnley",
+        "stadium_name": "Turf Moor"
+      },
+      "team_id": 6,
+      "team_name": "Burnley",
+      "goals_scored": 5,
+      "goals_conceded": 12,
+      "matches_played": 7
+    },
+    {
+      "wins": 1,
+      "coach": {
+        "last_name": "Pochettino",
+        "first_name": "Mauricio"
+      },
+      "draws": 1,
+      "losses": 2,
+      "points": 4,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 57,
+          "away_team": "Aston Villa",
+          "home_team": "Chelsea",
+          "match_date": "2024-09-24",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 34,
+          "away_team": "Nottingham Forest",
+          "home_team": "Chelsea",
+          "match_date": "2024-09-02",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 20,
+          "away_team": "Luton Town",
+          "home_team": "Chelsea",
+          "match_date": "2024-08-25",
+          "away_team_score": 0,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 9,
+          "away_team": "Liverpool",
+          "home_team": "Chelsea",
+          "match_date": "2024-08-13",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Craven Cottage",
+          "match_id": 69,
+          "away_team": "Chelsea",
+          "home_team": "Fulham",
+          "match_date": "2024-10-02",
+          "away_team_score": 2,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Taylor",
+            "first_name": "Anthony"
+          },
+          "stadium": "London Stadium",
+          "match_id": 18,
+          "away_team": "Chelsea",
+          "home_team": "West Ham",
+          "match_date": "2024-08-20",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 47,
+          "away_team": "Chelsea",
+          "home_team": "Bournemouth",
+          "match_date": "2024-09-17",
+          "away_team_score": 0,
+          "home_team_score": 0
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Sterling",
+          "player_id": 109,
+          "first_name": "Raheem",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Jackson",
+          "player_id": 110,
+          "first_name": "Nicolas",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Nkunku",
+          "player_id": 111,
+          "first_name": "Christopher",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Palmer",
+          "player_id": 112,
+          "first_name": "Cole",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Fernandez",
+          "player_id": 113,
+          "first_name": "Enzo",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Caicedo",
+          "player_id": 114,
+          "first_name": "Moises",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gallagher",
+          "player_id": 115,
+          "first_name": "Conor",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Mudryk",
+          "player_id": 116,
+          "first_name": "Mykhailo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Chilwell",
+          "player_id": 117,
+          "first_name": "Ben",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "James",
+          "player_id": 118,
+          "first_name": "Reece",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Silva",
+          "player_id": 119,
+          "first_name": "Thiago",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Colwill",
+          "player_id": 120,
+          "first_name": "Levi",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Disasi",
+          "player_id": 121,
+          "first_name": "Axel",
+          "statistics": {
+            "goals": 2,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Petrovic",
+          "player_id": 122,
+          "first_name": "Djordje",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 3,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Sanchez",
+          "player_id": 123,
+          "first_name": "Robert",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Broja",
+          "player_id": 124,
+          "first_name": "Armando",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Chukwuemeka",
+          "player_id": 125,
+          "first_name": "Carney",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Ugochukwu",
+          "player_id": 126,
+          "first_name": "Lesley",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "London",
+        "stadium_name": "Stamford Bridge"
+      },
+      "team_id": 7,
+      "team_name": "Chelsea",
+      "goals_scored": 4,
+      "goals_conceded": 3,
+      "matches_played": 7
+    },
+    {
+      "wins": 1,
+      "coach": {
+        "last_name": "Hodgson",
+        "first_name": "Roy"
+      },
+      "draws": 1,
+      "losses": 1,
+      "points": 4,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 23,
+          "away_team": "Crystal Palace",
+          "home_team": "Brentford",
+          "match_date": "2024-08-26",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Hooper",
+            "first_name": "Simon"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 63,
+          "away_team": "Crystal Palace",
+          "home_team": "Manchester United",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 6,
+          "away_team": "Crystal Palace",
+          "home_team": "Sheffield United",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Villa Park",
+          "match_id": 41,
+          "away_team": "Crystal Palace",
+          "home_team": "Aston Villa",
+          "match_date": "2024-09-16",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Selhurst Park",
+          "match_id": 50,
+          "away_team": "Fulham",
+          "home_team": "Crystal Palace",
+          "match_date": "2024-09-23",
+          "away_team_score": 0,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Selhurst Park",
+          "match_id": 37,
+          "away_team": "Wolves",
+          "home_team": "Crystal Palace",
+          "match_date": "2024-09-03",
+          "away_team_score": 2,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Selhurst Park",
+          "match_id": 19,
+          "away_team": "Arsenal",
+          "home_team": "Crystal Palace",
+          "match_date": "2024-08-21",
+          "away_team_score": 1,
+          "home_team_score": 0
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Eze",
+          "player_id": 127,
+          "first_name": "Eberechi",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Olise",
+          "player_id": 128,
+          "first_name": "Michael",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Edouard",
+          "player_id": 129,
+          "first_name": "Odsonne",
+          "statistics": {
+            "goals": 1,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Mateta",
+          "player_id": 130,
+          "first_name": "Jean-Philippe",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Ayew",
+          "player_id": 131,
+          "first_name": "Jordan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Hughes",
+          "player_id": 132,
+          "first_name": "Will",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Schlupp",
+          "player_id": 133,
+          "first_name": "Jeffrey",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "DoucourÃ©",
+          "player_id": 134,
+          "first_name": "Cheick",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Andersen",
+          "player_id": 135,
+          "first_name": "Joachim",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Guehi",
+          "player_id": 136,
+          "first_name": "Marc",
+          "statistics": {
+            "goals": 2,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Ward",
+          "player_id": 137,
+          "first_name": "Joel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Clyne",
+          "player_id": 138,
+          "first_name": "Nathaniel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Mitchell",
+          "player_id": 139,
+          "first_name": "Tyrick",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Henderson",
+          "player_id": 140,
+          "first_name": "Dean",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 3,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Johnstone",
+          "player_id": 141,
+          "first_name": "Sam",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Franca",
+          "player_id": 142,
+          "first_name": "Matheus",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Richards",
+          "player_id": 143,
+          "first_name": "Chris",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Rak-Sakyi",
+          "player_id": 144,
+          "first_name": "Jesurun",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "London",
+        "stadium_name": "Selhurst Park"
+      },
+      "team_id": 8,
+      "team_name": "Crystal Palace",
+      "goals_scored": 3,
+      "goals_conceded": 3,
+      "matches_played": 7
+    },
+    {
+      "wins": 0,
+      "coach": {
+        "last_name": "Dyche",
+        "first_name": "Sean"
+      },
+      "draws": 0,
+      "losses": 4,
+      "points": 0,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 53,
+          "away_team": "Everton",
+          "home_team": "Brentford",
+          "match_date": "2024-09-23",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 62,
+          "away_team": "Luton Town",
+          "home_team": "Everton",
+          "match_date": "2024-09-30",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 48,
+          "away_team": "Arsenal",
+          "home_team": "Everton",
+          "match_date": "2024-09-17",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 24,
+          "away_team": "Wolves",
+          "home_team": "Everton",
+          "match_date": "2024-08-26",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 5,
+          "away_team": "Fulham",
+          "home_team": "Everton",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 31,
+          "away_team": "Everton",
+          "home_team": "Sheffield United",
+          "match_date": "2024-09-02",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Villa Park",
+          "match_id": 17,
+          "away_team": "Everton",
+          "home_team": "Aston Villa",
+          "match_date": "2024-08-20",
+          "away_team_score": 0,
+          "home_team_score": 4
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Calvert-Lewin",
+          "player_id": 145,
+          "first_name": "Dominic",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Betuncal",
+          "player_id": 146,
+          "first_name": "Beto",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Danjuma",
+          "player_id": 147,
+          "first_name": "Arnaut",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "McNeil",
+          "player_id": 148,
+          "first_name": "Dwight",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Doucoure",
+          "player_id": 149,
+          "first_name": "Abdoulaye",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Onana",
+          "player_id": 150,
+          "first_name": "Amadou",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Garner",
+          "player_id": 151,
+          "first_name": "James",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gueye",
+          "player_id": 152,
+          "first_name": "Idrissa",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Tarkowski",
+          "player_id": 153,
+          "first_name": "James",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Branthwaite",
+          "player_id": 154,
+          "first_name": "Jarrad",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Patterson",
+          "player_id": 155,
+          "first_name": "Nathan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Godfrey",
+          "player_id": 156,
+          "first_name": "Ben",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Young",
+          "player_id": 157,
+          "first_name": "Ashley",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Pickford",
+          "player_id": 158,
+          "first_name": "Jordan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Virginia",
+          "player_id": 159,
+          "first_name": "Joao",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Keane",
+          "player_id": 160,
+          "first_name": "Michael",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gomes",
+          "player_id": 161,
+          "first_name": "Andre",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Maupay",
+          "player_id": 162,
+          "first_name": "Neal",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Liverpool",
+        "stadium_name": "Goodison Park"
+      },
+      "team_id": 9,
+      "team_name": "Everton",
+      "goals_scored": 1,
+      "goals_conceded": 5,
+      "matches_played": 7
+    },
+    {
+      "wins": 1,
+      "coach": {
+        "last_name": "Silva",
+        "first_name": "Marco"
+      },
+      "draws": 0,
+      "losses": 2,
+      "points": 3,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 5,
+          "away_team": "Fulham",
+          "home_team": "Everton",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Craven Cottage",
+          "match_id": 69,
+          "away_team": "Chelsea",
+          "home_team": "Fulham",
+          "match_date": "2024-10-02",
+          "away_team_score": 2,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Craven Cottage",
+          "match_id": 42,
+          "away_team": "Luton Town",
+          "home_team": "Fulham",
+          "match_date": "2024-09-16",
+          "away_team_score": 0,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Craven Cottage",
+          "match_id": 12,
+          "away_team": "Brentford",
+          "home_team": "Fulham",
+          "match_date": "2024-08-19",
+          "away_team_score": 3,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Etihad Stadium",
+          "match_id": 35,
+          "away_team": "Fulham",
+          "home_team": "Manchester City",
+          "match_date": "2024-09-02",
+          "away_team_score": 1,
+          "home_team_score": 5
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Villa Park",
+          "match_id": 74,
+          "away_team": "Fulham",
+          "home_team": "Arsenal",
+          "match_date": "2024-12-04",
+          "away_team_score": 10,
+          "home_team_score": 10
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 22,
+          "away_team": "Fulham",
+          "home_team": "Arsenal",
+          "match_date": "2024-08-26",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Selhurst Park",
+          "match_id": 50,
+          "away_team": "Fulham",
+          "home_team": "Crystal Palace",
+          "match_date": "2024-09-23",
+          "away_team_score": 0,
+          "home_team_score": 0
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Jimenez",
+          "player_id": 163,
+          "first_name": "Raul",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Vinicius",
+          "player_id": 164,
+          "first_name": "Carlos",
+          "statistics": {
+            "goals": 1,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Borges",
+          "player_id": 165,
+          "first_name": "Willian",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Decordova-Reid",
+          "player_id": 166,
+          "first_name": "Bobby",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Pereira",
+          "player_id": 167,
+          "first_name": "Andreas",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Reed",
+          "player_id": 168,
+          "first_name": "Harrison",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Palhinha",
+          "player_id": 169,
+          "first_name": "Joao",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Cairney",
+          "player_id": 170,
+          "first_name": "Tom",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Tete",
+          "player_id": 171,
+          "first_name": "Kenny",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Robinson",
+          "player_id": 172,
+          "first_name": "Antonee",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Diop",
+          "player_id": 173,
+          "first_name": "Issa",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Ream",
+          "player_id": 174,
+          "first_name": "Tim",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Bassey",
+          "player_id": 175,
+          "first_name": "Calvin",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Leno",
+          "player_id": 176,
+          "first_name": "Bernd",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 3,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Rodak",
+          "player_id": 177,
+          "first_name": "Marek",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Traore",
+          "player_id": 178,
+          "first_name": "Adama",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Lukic",
+          "player_id": 179,
+          "first_name": "Sasa",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Castagne",
+          "player_id": 180,
+          "first_name": "Timothy",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "London",
+        "stadium_name": "Craven Cottage"
+      },
+      "team_id": 10,
+      "team_name": "Fulham",
+      "goals_scored": 1,
+      "goals_conceded": 5,
+      "matches_played": 8
+    },
+    {
+      "wins": 3,
+      "coach": {
+        "last_name": "Klopp",
+        "first_name": "Jurgen"
+      },
+      "draws": 0,
+      "losses": 0,
+      "points": 9,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 9,
+          "away_team": "Liverpool",
+          "home_team": "Chelsea",
+          "match_date": "2024-08-13",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "St. James Park",
+          "match_id": 29,
+          "away_team": "Liverpool",
+          "home_team": "Newcastle",
+          "match_date": "2024-08-27",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Molineux",
+          "match_id": 40,
+          "away_team": "Liverpool",
+          "home_team": "Wolves",
+          "match_date": "2024-09-16",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Tottenham Hotspur Stadium",
+          "match_id": 67,
+          "away_team": "Liverpool",
+          "home_team": "Tottenham",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Anfield",
+          "match_id": 58,
+          "away_team": "West Ham",
+          "home_team": "Liverpool",
+          "match_date": "2024-09-24",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Anfield",
+          "match_id": 38,
+          "away_team": "Aston Villa",
+          "home_team": "Liverpool",
+          "match_date": "2024-09-03",
+          "away_team_score": 0,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Anfield",
+          "match_id": 13,
+          "away_team": "Bournemouth",
+          "home_team": "Liverpool",
+          "match_date": "2024-08-19",
+          "away_team_score": 1,
+          "home_team_score": 3
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Salah",
+          "player_id": 181,
+          "first_name": "Mohamed",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Nunez",
+          "player_id": 182,
+          "first_name": "Darwin",
+          "statistics": {
+            "goals": 0,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 3
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Diaz",
+          "player_id": 183,
+          "first_name": "Luis",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Jota",
+          "player_id": 184,
+          "first_name": "Diogo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Gakpo",
+          "player_id": 185,
+          "first_name": "Cody",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Mac Allister",
+          "player_id": 186,
+          "first_name": "Alexis",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Szoboszlai",
+          "player_id": 187,
+          "first_name": "Dominik",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Jones",
+          "player_id": 188,
+          "first_name": "Curtis",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Alcantara",
+          "player_id": 189,
+          "first_name": "Thiago",
+          "statistics": {
+            "goals": 6,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Endo",
+          "player_id": 190,
+          "first_name": "Wataru",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Alexander-Arnold",
+          "player_id": 191,
+          "first_name": "Trent",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Robertson",
+          "player_id": 192,
+          "first_name": "Andrew",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "van Dijk",
+          "player_id": 193,
+          "first_name": "Virgil",
+          "statistics": {
+            "goals": 4,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Konate",
+          "player_id": 194,
+          "first_name": "Ibrahima",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Gomez",
+          "player_id": 195,
+          "first_name": "Joe",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Becker",
+          "player_id": 196,
+          "first_name": "Alisson",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 1,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Kelleher",
+          "player_id": 197,
+          "first_name": "Caoimhin",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Matip",
+          "player_id": 198,
+          "first_name": "Joel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Liverpool",
+        "stadium_name": "Anfield"
+      },
+      "team_id": 11,
+      "team_name": "Liverpool",
+      "goals_scored": 9,
+      "goals_conceded": 2,
+      "matches_played": 7
+    },
+    {
+      "wins": 0,
+      "coach": {
+        "last_name": "Edwards",
+        "first_name": "Rob"
+      },
+      "draws": 1,
+      "losses": 2,
+      "points": 1,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 62,
+          "away_team": "Luton Town",
+          "home_team": "Everton",
+          "match_date": "2024-09-30",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 20,
+          "away_team": "Luton Town",
+          "home_team": "Chelsea",
+          "match_date": "2024-08-25",
+          "away_team_score": 0,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Craven Cottage",
+          "match_id": 42,
+          "away_team": "Luton Town",
+          "home_team": "Fulham",
+          "match_date": "2024-09-16",
+          "away_team_score": 0,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Kenilworth Road",
+          "match_id": 70,
+          "away_team": "Burnley",
+          "home_team": "Luton Town",
+          "match_date": "2024-10-03",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Kenilworth Road",
+          "match_id": 51,
+          "away_team": "Wolves",
+          "home_team": "Luton Town",
+          "match_date": "2024-09-23",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Kenilworth Road",
+          "match_id": 30,
+          "away_team": "West Ham",
+          "home_team": "Luton Town",
+          "match_date": "2024-09-01",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 4,
+          "away_team": "Luton Town",
+          "home_team": "Brighton",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 4
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Morris",
+          "player_id": 199,
+          "first_name": "Carlton",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Adebayo",
+          "player_id": 200,
+          "first_name": "Elijah",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Brown",
+          "player_id": 201,
+          "first_name": "Jacob",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Chong",
+          "player_id": 202,
+          "first_name": "Tahith",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Sambi Lokonga",
+          "player_id": 203,
+          "first_name": "Albert",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Nakamba",
+          "player_id": 204,
+          "first_name": "Marvelous",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Barkley",
+          "player_id": 205,
+          "first_name": "Ross",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Ruddock",
+          "player_id": 206,
+          "first_name": "Pelly",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Lockyer",
+          "player_id": 207,
+          "first_name": "Tom",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Andersen",
+          "player_id": 208,
+          "first_name": "Mads",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Kabore",
+          "player_id": 209,
+          "first_name": "Issa",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Doughty",
+          "player_id": 210,
+          "first_name": "Alfie",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Mengi",
+          "player_id": 211,
+          "first_name": "Teden",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Kaminski",
+          "player_id": 212,
+          "first_name": "Thomas",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Shea",
+          "player_id": 213,
+          "first_name": "James",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Burke",
+          "player_id": 214,
+          "first_name": "Reece",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Ogbene",
+          "player_id": 215,
+          "first_name": "Chiedozie",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Potts",
+          "player_id": 216,
+          "first_name": "Dan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Luton",
+        "stadium_name": "Kenilworth Road"
+      },
+      "team_id": 12,
+      "team_name": "Luton Town",
+      "goals_scored": 3,
+      "goals_conceded": 5,
+      "matches_played": 7
+    },
+    {
+      "wins": 3,
+      "coach": {
+        "last_name": "Guardiola",
+        "first_name": "Pep"
+      },
+      "draws": 0,
+      "losses": 0,
+      "points": 9,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 1,
+          "away_team": "Manchester City",
+          "home_team": "Burnley",
+          "match_date": "2023-08-11",
+          "away_team_score": 3,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "London Stadium",
+          "match_id": 45,
+          "away_team": "Manchester City",
+          "home_team": "West Ham",
+          "match_date": "2024-09-16",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 28,
+          "away_team": "Manchester City",
+          "home_team": "Sheffield United",
+          "match_date": "2024-08-27",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Molineux",
+          "match_id": 66,
+          "away_team": "Manchester City",
+          "home_team": "Wolves",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Etihad Stadium",
+          "match_id": 52,
+          "away_team": "Nottingham Forest",
+          "home_team": "Manchester City",
+          "match_date": "2024-09-23",
+          "away_team_score": 0,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Etihad Stadium",
+          "match_id": 35,
+          "away_team": "Fulham",
+          "home_team": "Manchester City",
+          "match_date": "2024-09-02",
+          "away_team_score": 1,
+          "home_team_score": 5
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Etihad Stadium",
+          "match_id": 16,
+          "away_team": "Newcastle",
+          "home_team": "Manchester City",
+          "match_date": "2024-08-19",
+          "away_team_score": 0,
+          "home_team_score": 1
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Haaland",
+          "player_id": 217,
+          "first_name": "Erling",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Alvarez",
+          "player_id": 218,
+          "first_name": "Julian",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Grealish",
+          "player_id": 219,
+          "first_name": "Jack",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Foden",
+          "player_id": 220,
+          "first_name": "Phil",
+          "statistics": {
+            "goals": 2,
+            "assists": 4,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "De Bruyne",
+          "player_id": 221,
+          "first_name": "Kevin",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Hernandez",
+          "player_id": 222,
+          "first_name": "Rodri",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Silva",
+          "player_id": 223,
+          "first_name": "Bernardo",
+          "statistics": {
+            "goals": 0,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Kovacic",
+          "player_id": 224,
+          "first_name": "Mateo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Cancelo",
+          "player_id": 225,
+          "first_name": "Joao",
+          "statistics": {
+            "goals": 4,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Walker",
+          "player_id": 226,
+          "first_name": "Kyle",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Dias",
+          "player_id": 227,
+          "first_name": "Ruben",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Stones",
+          "player_id": 228,
+          "first_name": "John",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Akanji",
+          "player_id": 229,
+          "first_name": "Manuel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Moraes",
+          "player_id": 230,
+          "first_name": "Ederson",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 3,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Ortega",
+          "player_id": 231,
+          "first_name": "Stefan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Ake",
+          "player_id": 232,
+          "first_name": "Nathan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Gvardiol",
+          "player_id": 233,
+          "first_name": "Josko",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Lewis",
+          "player_id": 234,
+          "first_name": "Rico",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Manchester",
+        "stadium_name": "Etihad Stadium"
+      },
+      "team_id": 13,
+      "team_name": "Manchester City",
+      "goals_scored": 8,
+      "goals_conceded": 1,
+      "matches_played": 7
+    },
+    {
+      "wins": 2,
+      "coach": {
+        "last_name": "ten Hag",
+        "first_name": "Erik"
+      },
+      "draws": 0,
+      "losses": 2,
+      "points": 6,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 54,
+          "away_team": "Manchester United",
+          "home_team": "Burnley",
+          "match_date": "2024-09-23",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Hooper",
+            "first_name": "Simon"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 63,
+          "away_team": "Crystal Palace",
+          "home_team": "Manchester United",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Hooper",
+            "first_name": "Simon"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 43,
+          "away_team": "Brighton",
+          "home_team": "Manchester United",
+          "match_date": "2024-09-16",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 25,
+          "away_team": "Nottingham Forest",
+          "home_team": "Manchester United",
+          "match_date": "2024-08-26",
+          "away_team_score": 2,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 10,
+          "away_team": "Wolves",
+          "home_team": "Manchester United",
+          "match_date": "2024-08-14",
+          "away_team_score": 0,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 39,
+          "away_team": "Manchester United",
+          "home_team": "Arsenal",
+          "match_date": "2024-09-03",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Tottenham Hotspur Stadium",
+          "match_id": 15,
+          "away_team": "Manchester United",
+          "home_team": "Tottenham",
+          "match_date": "2024-08-19",
+          "away_team_score": 0,
+          "home_team_score": 2
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Rashford",
+          "player_id": 235,
+          "first_name": "Marcus",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Hojlund",
+          "player_id": 236,
+          "first_name": "Rasmus",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Matheus",
+          "player_id": 237,
+          "first_name": "Antony",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Fernandes",
+          "player_id": 238,
+          "first_name": "Bruno",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Casemiro",
+          "player_id": 239,
+          "first_name": "Casemiro",
+          "statistics": {
+            "goals": 4,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Eriksen",
+          "player_id": 240,
+          "first_name": "Christian",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Mount",
+          "player_id": 241,
+          "first_name": "Mason",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "McTominay",
+          "player_id": 242,
+          "first_name": "Scott",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Shaw",
+          "player_id": 243,
+          "first_name": "Luke",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Dalot",
+          "player_id": 244,
+          "first_name": "Diogo",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Martinez",
+          "player_id": 245,
+          "first_name": "Lisandro",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Varane",
+          "player_id": 246,
+          "first_name": "Raphael",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Wan-Bissaka",
+          "player_id": 247,
+          "first_name": "Aaron",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Onana",
+          "player_id": 248,
+          "first_name": "Andre",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 2,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Bayindir",
+          "player_id": 249,
+          "first_name": "Altay",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Maguire",
+          "player_id": 250,
+          "first_name": "Harry",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Lindelof",
+          "player_id": 251,
+          "first_name": "Victor",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Sancho",
+          "player_id": 252,
+          "first_name": "Jadon",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Manchester",
+        "stadium_name": "Old Trafford"
+      },
+      "team_id": 14,
+      "team_name": "Manchester United",
+      "goals_scored": 5,
+      "goals_conceded": 6,
+      "matches_played": 7
+    },
+    {
+      "wins": 3,
+      "coach": {
+        "last_name": "Howe",
+        "first_name": "Eddie"
+      },
+      "draws": 0,
+      "losses": 1,
+      "points": 9,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "St. James Park",
+          "match_id": 64,
+          "away_team": "Burnley",
+          "home_team": "Newcastle",
+          "match_date": "2024-09-30",
+          "away_team_score": 0,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "St. James Park",
+          "match_id": 46,
+          "away_team": "Brentford",
+          "home_team": "Newcastle",
+          "match_date": "2024-09-16",
+          "away_team_score": 0,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "St. James Park",
+          "match_id": 29,
+          "away_team": "Liverpool",
+          "home_team": "Newcastle",
+          "match_date": "2024-08-27",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Taylor",
+            "first_name": "Anthony"
+          },
+          "stadium": "St. James Park",
+          "match_id": 7,
+          "away_team": "Aston Villa",
+          "home_team": "Newcastle",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 5
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 59,
+          "away_team": "Newcastle",
+          "home_team": "Sheffield United",
+          "match_date": "2024-09-24",
+          "away_team_score": 8,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Etihad Stadium",
+          "match_id": 16,
+          "away_team": "Newcastle",
+          "home_team": "Manchester City",
+          "match_date": "2024-08-19",
+          "away_team_score": 0,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 36,
+          "away_team": "Newcastle",
+          "home_team": "Brighton",
+          "match_date": "2024-09-02",
+          "away_team_score": 1,
+          "home_team_score": 3
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Isak",
+          "player_id": 253,
+          "first_name": "Alexander",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Wilson",
+          "player_id": 254,
+          "first_name": "Callum",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Almiron",
+          "player_id": 255,
+          "first_name": "Miguel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 3
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Gordon",
+          "player_id": 256,
+          "first_name": "Anthony",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Guimaraes",
+          "player_id": 257,
+          "first_name": "Bruno",
+          "statistics": {
+            "goals": 2,
+            "assists": 4,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Cassio",
+          "player_id": 258,
+          "first_name": "Joelinton",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Longstaff",
+          "player_id": 259,
+          "first_name": "Sean",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Tonali",
+          "player_id": 260,
+          "first_name": "Sandro",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Trippier",
+          "player_id": 261,
+          "first_name": "Kieran",
+          "statistics": {
+            "goals": 0,
+            "assists": 5,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Burn",
+          "player_id": 262,
+          "first_name": "Dan",
+          "statistics": {
+            "goals": 6,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Botman",
+          "player_id": 263,
+          "first_name": "Sven",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Schar",
+          "player_id": 264,
+          "first_name": "Fabian",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Livramento",
+          "player_id": 265,
+          "first_name": "Tino",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Pope",
+          "player_id": 266,
+          "first_name": "Nick",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 3,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Dubravka",
+          "player_id": 267,
+          "first_name": "Martin",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Lascelles",
+          "player_id": 268,
+          "first_name": "Jamaal",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Targett",
+          "player_id": 269,
+          "first_name": "Matt",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Murphy",
+          "player_id": 270,
+          "first_name": "Jacob",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Newcastle",
+        "stadium_name": "St. James Park"
+      },
+      "team_id": 15,
+      "team_name": "Newcastle",
+      "goals_scored": 9,
+      "goals_conceded": 3,
+      "matches_played": 7
+    },
+    {
+      "wins": 1,
+      "coach": {
+        "last_name": "Cooper",
+        "first_name": "Steve"
+      },
+      "draws": 2,
+      "losses": 0,
+      "points": 5,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Stamford Bridge",
+          "match_id": 34,
+          "away_team": "Nottingham Forest",
+          "home_team": "Chelsea",
+          "match_date": "2024-09-02",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 25,
+          "away_team": "Nottingham Forest",
+          "home_team": "Manchester United",
+          "match_date": "2024-08-26",
+          "away_team_score": 2,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Etihad Stadium",
+          "match_id": 52,
+          "away_team": "Nottingham Forest",
+          "home_team": "Manchester City",
+          "match_date": "2024-09-23",
+          "away_team_score": 0,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 2,
+          "away_team": "Nottingham Forest",
+          "home_team": "Arsenal",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "City Ground",
+          "match_id": 68,
+          "away_team": "Brentford",
+          "home_team": "Nottingham Forest",
+          "match_date": "2024-10-01",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "City Ground",
+          "match_id": 49,
+          "away_team": "Burnley",
+          "home_team": "Nottingham Forest",
+          "match_date": "2024-09-18",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "City Ground",
+          "match_id": 11,
+          "away_team": "Sheffield United",
+          "home_team": "Nottingham Forest",
+          "match_date": "2024-08-18",
+          "away_team_score": 1,
+          "home_team_score": 2
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Awoniyi",
+          "player_id": 271,
+          "first_name": "Taiwo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Wood",
+          "player_id": 272,
+          "first_name": "Chris",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Elanga",
+          "player_id": 273,
+          "first_name": "Anthony",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gibbs-White",
+          "player_id": 274,
+          "first_name": "Morgan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Mangala",
+          "player_id": 275,
+          "first_name": "Orel",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Sangare",
+          "player_id": 276,
+          "first_name": "Ibrahim",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Yates",
+          "player_id": 277,
+          "first_name": "Ryan",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Dos Santos",
+          "player_id": 278,
+          "first_name": "Danilo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Aurier",
+          "player_id": 279,
+          "first_name": "Serge",
+          "statistics": {
+            "goals": 3,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Williams",
+          "player_id": 280,
+          "first_name": "Neco",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Niakhate",
+          "player_id": 281,
+          "first_name": "Moussa",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Monteiro",
+          "player_id": 282,
+          "first_name": "Felipe",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Boly",
+          "player_id": 283,
+          "first_name": "Willy",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Turner",
+          "player_id": 284,
+          "first_name": "Matt",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 1,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Vlachodimos",
+          "player_id": 285,
+          "first_name": "Odysseas",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Worrall",
+          "player_id": 286,
+          "first_name": "Joe",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Aina",
+          "player_id": 287,
+          "first_name": "Ola",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Origi",
+          "player_id": 288,
+          "first_name": "Divock",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Nottingham",
+        "stadium_name": "City Ground"
+      },
+      "team_id": 16,
+      "team_name": "Nottingham Forest",
+      "goals_scored": 4,
+      "goals_conceded": 3,
+      "matches_played": 7
+    },
+    {
+      "wins": 0,
+      "coach": {
+        "last_name": "Heckingbottom",
+        "first_name": "Paul"
+      },
+      "draws": 1,
+      "losses": 3,
+      "points": 1,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "London Stadium",
+          "match_id": 65,
+          "away_team": "Sheffield United",
+          "home_team": "West Ham",
+          "match_date": "2024-09-30",
+          "away_team_score": 0,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 59,
+          "away_team": "Newcastle",
+          "home_team": "Sheffield United",
+          "match_date": "2024-09-24",
+          "away_team_score": 8,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 31,
+          "away_team": "Everton",
+          "home_team": "Sheffield United",
+          "match_date": "2024-09-02",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 28,
+          "away_team": "Manchester City",
+          "home_team": "Sheffield United",
+          "match_date": "2024-08-27",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Bramall Lane",
+          "match_id": 6,
+          "away_team": "Crystal Palace",
+          "home_team": "Sheffield United",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Tottenham Hotspur Stadium",
+          "match_id": 44,
+          "away_team": "Sheffield United",
+          "home_team": "Tottenham",
+          "match_date": "2024-09-16",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "City Ground",
+          "match_id": 11,
+          "away_team": "Sheffield United",
+          "home_team": "Nottingham Forest",
+          "match_date": "2024-08-18",
+          "away_team_score": 1,
+          "home_team_score": 2
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "McBurnie",
+          "player_id": 289,
+          "first_name": "Oli",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Archer",
+          "player_id": 290,
+          "first_name": "Cameron",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Traore",
+          "player_id": 291,
+          "first_name": "Benie",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Hamer",
+          "player_id": 292,
+          "first_name": "Gustavo",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Norwood",
+          "player_id": 293,
+          "first_name": "Oliver",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "McAtee",
+          "player_id": 294,
+          "first_name": "James",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Souza",
+          "player_id": 295,
+          "first_name": "Vinicius",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Davies",
+          "player_id": 296,
+          "first_name": "Tom",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Robinson",
+          "player_id": 297,
+          "first_name": "Jack",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Ahmedhodzic",
+          "player_id": 298,
+          "first_name": "Anel",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Baldock",
+          "player_id": 299,
+          "first_name": "George",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Bogle",
+          "player_id": 300,
+          "first_name": "Jayden",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Trusty",
+          "player_id": 301,
+          "first_name": "Auston",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Foderingham",
+          "player_id": 302,
+          "first_name": "Wes",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Grbic",
+          "player_id": 303,
+          "first_name": "Ivo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Basham",
+          "player_id": 304,
+          "first_name": "Chris",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Egan",
+          "player_id": 305,
+          "first_name": "John",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Brewster",
+          "player_id": 306,
+          "first_name": "Rhian",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Sheffield",
+        "stadium_name": "Bramall Lane"
+      },
+      "team_id": 17,
+      "team_name": "Sheffield United",
+      "goals_scored": 3,
+      "goals_conceded": 13,
+      "matches_played": 7
+    },
+    {
+      "wins": 3,
+      "coach": {
+        "last_name": "Postecoglou",
+        "first_name": "Ange"
+      },
+      "draws": 0,
+      "losses": 0,
+      "points": 9,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Gtech Community Stadium",
+          "match_id": 8,
+          "away_team": "Tottenham",
+          "home_team": "Brentford",
+          "match_date": "2024-08-13",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Turf Moor",
+          "match_id": 33,
+          "away_team": "Tottenham",
+          "home_team": "Burnley",
+          "match_date": "2024-09-02",
+          "away_team_score": 5,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 21,
+          "away_team": "Tottenham",
+          "home_team": "Bournemouth",
+          "match_date": "2024-08-26",
+          "away_team_score": 2,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Villa Park",
+          "match_id": 73,
+          "away_team": "Tottenham",
+          "home_team": "Arsenal",
+          "match_date": "2024-12-04",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Emirates Stadium",
+          "match_id": 55,
+          "away_team": "Tottenham",
+          "home_team": "Arsenal",
+          "match_date": "2024-09-24",
+          "away_team_score": 2,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "Tottenham Hotspur Stadium",
+          "match_id": 67,
+          "away_team": "Liverpool",
+          "home_team": "Tottenham",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Coote",
+            "first_name": "David"
+          },
+          "stadium": "Tottenham Hotspur Stadium",
+          "match_id": 44,
+          "away_team": "Sheffield United",
+          "home_team": "Tottenham",
+          "match_date": "2024-09-16",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Tottenham Hotspur Stadium",
+          "match_id": 15,
+          "away_team": "Manchester United",
+          "home_team": "Tottenham",
+          "match_date": "2024-08-19",
+          "away_team_score": 0,
+          "home_team_score": 2
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Son",
+          "player_id": 307,
+          "first_name": "Heung-min",
+          "statistics": {
+            "goals": 4,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "de Andrade",
+          "player_id": 308,
+          "first_name": "Richarlison",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Johnson",
+          "player_id": 309,
+          "first_name": "Brennan",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Maddison",
+          "player_id": 310,
+          "first_name": "James",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Bentancur",
+          "player_id": 311,
+          "first_name": "Rodrigo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Hojbjerg",
+          "player_id": 312,
+          "first_name": "Pierre-Emile",
+          "statistics": {
+            "goals": 0,
+            "assists": 4,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Bissouma",
+          "player_id": 313,
+          "first_name": "Yves",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Matar Sarr",
+          "player_id": 314,
+          "first_name": "Pape",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Romero",
+          "player_id": 315,
+          "first_name": "Cristian",
+          "statistics": {
+            "goals": 4,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "van de Ven",
+          "player_id": 316,
+          "first_name": "Micky",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Porro",
+          "player_id": 317,
+          "first_name": "Pedro",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Udogie",
+          "player_id": 318,
+          "first_name": "Destiny",
+          "statistics": {
+            "goals": 4,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Royal",
+          "player_id": 319,
+          "first_name": "Emerson",
+          "statistics": {
+            "goals": 0,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Vicario",
+          "player_id": 320,
+          "first_name": "Guglielmo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 2,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Forster",
+          "player_id": 321,
+          "first_name": "Fraser",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Davies",
+          "player_id": 322,
+          "first_name": "Ben",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Lo Celso",
+          "player_id": 323,
+          "first_name": "Giovani",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Kulusevski",
+          "player_id": 324,
+          "first_name": "Dejan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "London",
+        "stadium_name": "Tottenham Hotspur Stadium"
+      },
+      "team_id": 18,
+      "team_name": "Tottenham",
+      "goals_scored": 6,
+      "goals_conceded": 2,
+      "matches_played": 8
+    },
+    {
+      "wins": 2,
+      "coach": {
+        "last_name": "Moyes",
+        "first_name": "David"
+      },
+      "draws": 0,
+      "losses": 1,
+      "points": 6,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Attwell",
+            "first_name": "Stuart"
+          },
+          "stadium": "Kenilworth Road",
+          "match_id": 30,
+          "away_team": "West Ham",
+          "home_team": "Luton Town",
+          "match_date": "2024-09-01",
+          "away_team_score": 2,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Jones",
+            "first_name": "Robert"
+          },
+          "stadium": "London Stadium",
+          "match_id": 65,
+          "away_team": "Sheffield United",
+          "home_team": "West Ham",
+          "match_date": "2024-09-30",
+          "away_team_score": 0,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "London Stadium",
+          "match_id": 45,
+          "away_team": "Manchester City",
+          "home_team": "West Ham",
+          "match_date": "2024-09-16",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Taylor",
+            "first_name": "Anthony"
+          },
+          "stadium": "London Stadium",
+          "match_id": 18,
+          "away_team": "Chelsea",
+          "home_team": "West Ham",
+          "match_date": "2024-08-20",
+          "away_team_score": 1,
+          "home_team_score": 3
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Vitality Stadium",
+          "match_id": 3,
+          "away_team": "West Ham",
+          "home_team": "Bournemouth",
+          "match_date": "2024-08-12",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Amex Stadium",
+          "match_id": 26,
+          "away_team": "West Ham",
+          "home_team": "Brighton",
+          "match_date": "2024-08-26",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Anfield",
+          "match_id": 58,
+          "away_team": "West Ham",
+          "home_team": "Liverpool",
+          "match_date": "2024-09-24",
+          "away_team_score": 1,
+          "home_team_score": 3
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Bowen",
+          "player_id": 325,
+          "first_name": "Jarrod",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Antonio",
+          "player_id": 326,
+          "first_name": "Michail",
+          "statistics": {
+            "goals": 3,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 3
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Ings",
+          "player_id": 327,
+          "first_name": "Danny",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Paqueta",
+          "player_id": 328,
+          "first_name": "Lucas",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Ward-Prowse",
+          "player_id": 329,
+          "first_name": "James",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Alvarez",
+          "player_id": 330,
+          "first_name": "Edson",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Soucek",
+          "player_id": 331,
+          "first_name": "Tomas",
+          "statistics": {
+            "goals": 2,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Fornals",
+          "player_id": 332,
+          "first_name": "Pablo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Zouma",
+          "player_id": 333,
+          "first_name": "Kurt",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Aguerd",
+          "player_id": 334,
+          "first_name": "Nayef",
+          "statistics": {
+            "goals": 0,
+            "assists": 3,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Coufal",
+          "player_id": 335,
+          "first_name": "Vladimir",
+          "statistics": {
+            "goals": 4,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Palmieri",
+          "player_id": 336,
+          "first_name": "Emerson",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Johnson",
+          "player_id": 337,
+          "first_name": "Ben",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Areola",
+          "player_id": 338,
+          "first_name": "Alphonse",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 1,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Fabianski",
+          "player_id": 339,
+          "first_name": "Lukasz",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Kehrer",
+          "player_id": 340,
+          "first_name": "Thilo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Mavropanos",
+          "player_id": 341,
+          "first_name": "Konstantinos",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Benrahma",
+          "player_id": 342,
+          "first_name": "Said",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "London",
+        "stadium_name": "London Stadium"
+      },
+      "team_id": 19,
+      "team_name": "West Ham",
+      "goals_scored": 6,
+      "goals_conceded": 4,
+      "matches_played": 7
+    },
+    {
+      "wins": 1,
+      "coach": {
+        "last_name": "ONeil",
+        "first_name": "Gary"
+      },
+      "draws": 0,
+      "losses": 2,
+      "points": 3,
+      "matches": [
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Goodison Park",
+          "match_id": 24,
+          "away_team": "Wolves",
+          "home_team": "Everton",
+          "match_date": "2024-08-26",
+          "away_team_score": 1,
+          "home_team_score": 0
+        },
+        {
+          "referee": {
+            "last_name": "Tierney",
+            "first_name": "Paul"
+          },
+          "stadium": "Kenilworth Road",
+          "match_id": 51,
+          "away_team": "Wolves",
+          "home_team": "Luton Town",
+          "match_date": "2024-09-23",
+          "away_team_score": 1,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Brooks",
+            "first_name": "John"
+          },
+          "stadium": "Old Trafford",
+          "match_id": 10,
+          "away_team": "Wolves",
+          "home_team": "Manchester United",
+          "match_date": "2024-08-14",
+          "away_team_score": 0,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Molineux",
+          "match_id": 66,
+          "away_team": "Manchester City",
+          "home_team": "Wolves",
+          "match_date": "2024-09-30",
+          "away_team_score": 1,
+          "home_team_score": 2
+        },
+        {
+          "referee": {
+            "last_name": "Oliver",
+            "first_name": "Michael"
+          },
+          "stadium": "Molineux",
+          "match_id": 40,
+          "away_team": "Liverpool",
+          "home_team": "Wolves",
+          "match_date": "2024-09-16",
+          "away_team_score": 3,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Madley",
+            "first_name": "Andy"
+          },
+          "stadium": "Molineux",
+          "match_id": 14,
+          "away_team": "Brighton",
+          "home_team": "Wolves",
+          "match_date": "2024-08-19",
+          "away_team_score": 4,
+          "home_team_score": 1
+        },
+        {
+          "referee": {
+            "last_name": "Pawson",
+            "first_name": "Craig"
+          },
+          "stadium": "Selhurst Park",
+          "match_id": 37,
+          "away_team": "Wolves",
+          "home_team": "Crystal Palace",
+          "match_date": "2024-09-03",
+          "away_team_score": 2,
+          "home_team_score": 3
+        }
+      ],
+      "players": [
+        {
+          "position": "Forward",
+          "last_name": "Cunha",
+          "player_id": 343,
+          "first_name": "Matheus",
+          "statistics": {
+            "goals": 1,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Hee-chan",
+          "player_id": 344,
+          "first_name": "Hwang",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Sarabia",
+          "player_id": 345,
+          "first_name": "Pablo",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Neto",
+          "player_id": 346,
+          "first_name": "Pedro",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Gomes",
+          "player_id": 347,
+          "first_name": "Joao",
+          "statistics": {
+            "goals": 2,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Lemina",
+          "player_id": 348,
+          "first_name": "Mario",
+          "statistics": {
+            "goals": 0,
+            "assists": 1,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Bellegarde",
+          "player_id": 349,
+          "first_name": "Jean-Ricner",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Midfielder",
+          "last_name": "Traore",
+          "player_id": 350,
+          "first_name": "Boubacar",
+          "statistics": {
+            "goals": 3,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Kilman",
+          "player_id": 351,
+          "first_name": "Max",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 2
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Dawson",
+          "player_id": 352,
+          "first_name": "Craig",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 1,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Gomes",
+          "player_id": 353,
+          "first_name": "Toti",
+          "statistics": {
+            "goals": 0,
+            "assists": 2,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Ait-Nouri",
+          "player_id": 354,
+          "first_name": "Rayan",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Semedo",
+          "player_id": 355,
+          "first_name": "Nelson",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 1
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Sa",
+          "player_id": 356,
+          "first_name": "Jose",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 1,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Goalkeeper",
+          "last_name": "Bentley",
+          "player_id": 357,
+          "first_name": "Daniel",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Bueno",
+          "player_id": 358,
+          "first_name": "Hugo",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Defender",
+          "last_name": "Bueno",
+          "player_id": 359,
+          "first_name": "Santiago",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        },
+        {
+          "position": "Forward",
+          "last_name": "Silva",
+          "player_id": 360,
+          "first_name": "Fabio",
+          "statistics": {
+            "goals": 0,
+            "assists": 0,
+            "red_cards": 0,
+            "clean_sheets": 0,
+            "yellow_cards": 0
+          }
+        }
+      ],
+      "stadium": {
+        "city": "Wolverhampton",
+        "stadium_name": "Molineux"
+      },
+      "team_id": 20,
+      "team_name": "Wolves",
+      "goals_scored": 4,
+      "goals_conceded": 8,
+      "matches_played": 7
+    }
+  ]
+}]
